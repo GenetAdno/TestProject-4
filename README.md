@@ -1,5 +1,5 @@
 ## Project Overview
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/GenetAdno/project-4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/GenetAdno/project-4/tree/master)
 In this project, I have working on operationalizing microservices by deploying a machine learning inference API using docker and kubernetes.
   
 ### How to run this Project
