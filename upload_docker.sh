@@ -9,7 +9,7 @@
 dockerpath=genetadno/housing-price-predictor
 # Step 2:  
 # Authenticate & tag
-echo ?????? docker login --username genetadno --password-stdin
+echo MYga21@12345 docker login --username genetadno --password-stdin
 docker image tag ml-predictor $dockerpath
 
 echo "Docker ID and Image: $dockerpath"
